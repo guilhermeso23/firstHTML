@@ -1,0 +1,19 @@
+
+            h1 {
+                font-family: Montserrat;
+            }
+            p{
+                text-align: justify;
+            }
+            body {
+                background-color: #b7b7a4;
+                font-size: 20px;
+                line-height: 30px;
+            }
+            .list-style{
+                font-family: Merriweather;
+                color: #012e05;
+            }
+            #list{
+                font-style: italic;
+            }
