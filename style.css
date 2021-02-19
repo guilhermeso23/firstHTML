@@ -17,3 +17,9 @@
             #list{
                 font-style: italic;
             }
+            .title{
+                font-weight: bold;
+            }
+            #my-picture{
+                width: 300px;
+            }
